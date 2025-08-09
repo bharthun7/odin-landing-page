@@ -1,0 +1,14 @@
+body{
+    font-family: "Roboto",sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.header, .footer{
+    background-color: #1F2937;
+}
+.contact{
+    background-color: #3882F6;
+}
+.quote{
+    background-color: #E5E7EB;
+}
